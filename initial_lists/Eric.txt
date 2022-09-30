@@ -1,3 +1,7 @@
-Eric Antonecchia
+Erik Antonecchia
 
+<<<<<<< HEAD
+Goodbye no one!! >:))
+=======
 Helooooooo :D
+>>>>>>> c7974dfb87a72034afff84444d10a6dabbd8b207
