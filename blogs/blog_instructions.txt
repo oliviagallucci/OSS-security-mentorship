@@ -1,0 +1,8 @@
+Create a text file with the following: 
+
+Name or pseudonym:
+Date: 
+RITSEC Post Link: 
+(Optional) Post Content: 
+
+/* post content */ 
