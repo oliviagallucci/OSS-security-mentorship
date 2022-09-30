@@ -8,8 +8,8 @@ Will consist of:
 - link to the final presentation 
 
 ## Begginer Projects 
-- how to find
-- olivia will write blog post
+- [Navigating the Open Source Security Community](https://oliviagallucci.com/navigating-the-open-source-security-community/) by Olivia Gallucci 
+  - Learn how to find a project 
 
 ## OSS security projects (list)
 
